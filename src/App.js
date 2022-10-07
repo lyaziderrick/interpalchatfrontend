@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Logo from './components/first/logo';
 
 function App() {
   return (
-    <h9>HI</h9>
+    <Logo/>
   );
 }
-
-export default App;
+export default Logo;
